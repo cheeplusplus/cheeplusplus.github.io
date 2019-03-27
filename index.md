@@ -1,3 +1,3 @@
-This is where Andrew's stuff goes.
+This is where Jess's stuff goes.
 
-See all the projects: https://github.com/AndrewNeo/
+See all the projects: https://github.com/cheeplusplus/
