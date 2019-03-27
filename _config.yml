@@ -1,0 +1,8 @@
+title: AndrewNeo's Github
+description: AndrewNeo's Github Repo
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
